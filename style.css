@@ -1,0 +1,14 @@
+body {
+	background-color: gray;
+	font-size: 20px;
+	font-family: arial;
+}
+li{
+	margin: auto;
+	display: inline;
+	border-right: 3px inset #7B7B7B;
+	color: white;
+	padding-left: 10vw;
+	padding-right: 10vw;
+	background-color: #000009;
+}
