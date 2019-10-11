@@ -1,6 +1,24 @@
 body {
-    background-color:mediumaquamarine;
-}
+     background-color:mediumaquamarine;
+ }
 li {
     display: inline;
+}
+body {
+
+}
+div {
+    width:400px;
+
+    height:600px;
+
+    border:1px solid;
+
+    resize:both;
+
+    overflow:auto;
+
+    margin: 10px;
+
+    padding: 10px;
 }
