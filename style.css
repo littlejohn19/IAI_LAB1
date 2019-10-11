@@ -1,7 +1,16 @@
 body {
 background: linear-gradient(45deg, yellow, green)
     }
+
 li {
     display: inline;
+}
+div{
+    width: 400px;
+    height: 600px;
+    border: 1px solid;
+    resize:both;
+    overflow:auto;
+
 }
 
